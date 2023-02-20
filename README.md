@@ -21,6 +21,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 **Solution**
 To solve I have followed the Below steps: 
+
 **Step 1) :   To start any Analytics Project , we should we should understand the problem first.**
 
 **Step 2) :   Data Transdormation (Power Query)**
