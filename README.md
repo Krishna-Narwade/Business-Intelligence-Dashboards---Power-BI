@@ -2,6 +2,10 @@
 
 Hi , This Repository Contains End to End BI Dashboards for hospitality Domain 
 
+**Domain:  Hospitality**    
+
+**Function: Revenue**
+
 [Dashboard](https://github.com/Krishna-Narwade/Business-Intelligence-Dashboards---Power-BI/blob/main/Required%20Files/Hospitatlity%20Rervenue%20Insight.pdf)
 
 <img
@@ -11,8 +15,6 @@ Hi , This Repository Contains End to End BI Dashboards for hospitality Domain
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
-**Domain:  Hospitality**                                                        
-**Function: Revenue**
 
 **Problem Statement**
 
