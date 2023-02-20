@@ -2,7 +2,8 @@
 
 Hi , This Repository Contains End to End BI Dashboards for hospitality Domain 
 
-**Domain:  Hospitality**                                                         **Function: Revenue**
+**Domain:  Hospitality**                                                        
+**Function: Revenue**
 
 **Problem Statement**
 
