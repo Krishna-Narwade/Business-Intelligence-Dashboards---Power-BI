@@ -36,13 +36,11 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 **Solution**
 To solve I have followed the Below steps: 
 
-**Step 1) :   To start any Analytics Project , we should we should understand the problem first.**
+**Step 1) :   To start any Analytics Project , we should understand the problem first.**
 
-**Step 2) :   Data Transdormation (Power Query)**
+**Step 2) :   Data Transformation (Power Query)**
               Load the data in Power BI and Do some Data Transformation. 
-              In Our case We had more cleaned data , So I just some columns like , **week no :** which gives the week number from the date. **day_type:** such as
-              weekday or Weekend. In Hotelling Industry specifically, The weekdays are from Sunday to Thursday and Friday and Saturday are considered tobe Weekend. 
-              All these things were done using Power Query
+              In Our case We had more cleaned data , So I just calulated some columns like , **week no :** which gives the week number from the date. **day_type:**                   such as weekday or Weekend. In Hotelling Industry specifically, The weekdays are from Sunday to Thursday and Friday and Saturday are considered tobe                   Weekend. All these things were done using Power Query
               
 **Step 3) :   Creating the Proper Data Modelling schema(Start Schema) and Making Proper Realtions amongs Fact and dim tables.** 
               For this project, We have around 5 Tables , from which 2 are Fact Tables and 3 are Dimnensions Table.
