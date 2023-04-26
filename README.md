@@ -42,7 +42,7 @@ To solve I have followed the Below steps:
               Load the data in Power BI and Do some Data Transformation. 
               In Our case We had more cleaned data , So I just calulated some columns like , **week no :** which gives the week number from the date. **day_type:**                   such as weekday or Weekend. In Hotelling Industry specifically, The weekdays are from Sunday to Thursday and Friday and Saturday are considered tobe                   Weekend. All these things were done using Power Query
               
-**Step 3) :   Creating the Proper Data Modelling schema(Start Schema) and Making Proper Realtions amongs Fact and dim tables.** 
+**Step 3) :   Creating the Proper Data Modelling schema(Star Schema) and Making Proper Realtions amongs Fact and dim tables.** 
               For this project, We have around 5 Tables , from which 2 are Fact Tables and 3 are Dimnensions Table.
               So each table is correctly mapped with it corresponding Table(with proper Key)
              
