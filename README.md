@@ -27,7 +27,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Task:  
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
-Create the metrics according to the [metric list](Metric List).
+Create the metrics according to the
 Create a dashboard according to the [mock-up](Mock up dashboard) provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
